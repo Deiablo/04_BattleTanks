@@ -1,2 +1,2 @@
-# 04_BattleTanks
+# BattleTanks
 Head To Head Tank Warfare
