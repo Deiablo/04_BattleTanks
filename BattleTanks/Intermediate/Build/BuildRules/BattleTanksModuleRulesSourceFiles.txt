@@ -1,0 +1,3 @@
+C:\Users\Deiablo\Documents\04_BattleTanks\BattleTanks\Source\BattleTanks\BattleTanks.Build.cs
+C:\Users\Deiablo\Documents\04_BattleTanks\BattleTanks\Source\BattleTanks.Target.cs
+C:\Users\Deiablo\Documents\04_BattleTanks\BattleTanks\Source\BattleTanksEditor.Target.cs
